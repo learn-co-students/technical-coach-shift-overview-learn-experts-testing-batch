@@ -21,7 +21,7 @@ While working on a shift, you will likely find yourself accessing a number of di
 The `#technical-coaches` channel is used for doing your shift and all shift related content. It's also used to greet your peers and a little chat. Please try not to flood technical coaches with chat however, if it's an in depth discussion, you can always do a group DM.
 
 ### #labs-escalation
-The `#labs-escalation` channel is read-only - any time a Jira ticket is filed by a TC, a message will be posted to this channel. This channel is not to be used as a chat, but can be used to post necessary escalations by TCs (e.g. AAQ is down).
+The `#labs-escalation` channel is read-only - any time a Jira ticket is filed by a TC, a message will be posted to this channel. This channel is not to be used as a chat, but can be used to reply to lab escalations by TCs.
 
 ### #tc-updates
 The `#tc-updates` channel is used by the Technical Coach Leads, Technical Coach Manager, or other Departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations. 
@@ -33,7 +33,7 @@ The `#tc-support` channel is used for finding already answered questions as well
 The `#virtual-box` channel contains lots of useful information for VirtualBox, software that allows students to run a virtual machine on their computer if they're not using OSX. This channel has links to available resources, videos and the Github docs with fixes to the most common known issues.
 
 ## Qbot
-`Qbot` is the helpful Slack bot that manages who's on shift and the questions queued for screen share. We reference some of these commands in this curriculum track. You'll be using these commands frequently on shift, so please [check out the full documentation for qbot here](https://github.com/flatiron-labs/online-ed-ops/blob/master/technical-coach-team/role-technical-coach/lib/qbot.md).
+`Qbot` is the helpful Slack bot that manages who's on shift and the questions queued for screen share. We reference some of these commands in this curriculum track. You'll be using these commands frequently on shift, so please [check out the full documentation for qbot here](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md).
 
 ## Categories of Questions
 You'll see three categories of questions on AAQ - **Requires Action**, **Active Questions** and **Inactive Questions**:
@@ -49,11 +49,11 @@ If you're working a double shift, you are permitted one 30 minute break and one 
 
 
 ## Resources
-* [Qbot Commands](https://github.com/flatiron-labs/online-ed-ops/blob/master/technical-coach-team/role-technical-coach/lib/qbot.md) 
+* [Qbot Commands](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md) 
 * [AAQ](https://learn.co/expert-chat)
 * [Chrome Extension for tracking questions](https://chrome.google.com/webstore/detail/le3/hjjhpafjpkkjbdchnaeikofponobhngc)
 * [#technical-coaches channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_coaches_channel.md)
-* [#labs-escalation channel information]
+* [#labs-escalation channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/labs_escalation_channel.md)
 * [#tc-updates channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_updates_channel.md)
 * [#tc-support channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_support_channel.md)
 * [Virtual Box Info](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md)
