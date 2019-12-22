@@ -52,7 +52,5 @@ If you're working a double shift, you are permitted one 30 minute break and one 
 * [AAQ](https://learn.co/expert-chat)
 * [Chrome Extension for tracking questions](https://chrome.google.com/webstore/detail/le3/hjjhpafjpkkjbdchnaeikofponobhngc)
 * [#technical-coaches channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_coaches_channel.md)
-* [#tech-escalation channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/tech_escalation_channel.md)
 * [#tc_updates channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/tc_updates_channel.md)
 * [#tc_support channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/tc_support_channel.md)
-* [Virtual Box Info](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md)
