@@ -15,13 +15,10 @@ If it's clear that the student will need more than a link and a few short answer
 If you're on Sync during a shift, you'll generally be screensharing with students, although you may also be chatting with a student 1:1 if they are unable to screenshare. Depending on their issue, you may be doing anything from debugging a simple syntax error, to troubleshooting an environment issue, to teaching a concept to a struggling student. We limit our screenshares to 20 minutes - you may not always be able to solve the error within this time limit, but that's okay - do the best you can.
 
 ## Slack Channels - Flatiron Staff
-While working on a shift, you will likely find yourself accessing a number of different Slack channels in the Flatiron Staff team. Below is a brief overview of what some of these channels are. For more in depth information, check out the resources at the end of this lesson.
+While working on a shift, you will likely find yourself accessing a number of different Slack channels in the Flatiron Staff workspace. Below is a brief overview of what some of these channels are. For more in depth information, check out the resources at the end of this lesson.
 
 ### #technical-coaches
-The `#technical-coaches` channel is used for doing your shift and all shift related content. It's also used to greet your peers and a little chat. Please try not to flood technical coaches with chat; if it's an in depth discussion, you can always do a group DM.
-
-### #tech-escalation
-The `#tech-escalation` channel is read-only - any time a Jira ticket is filed by a Technical Coach, a message will be posted to this channel. This channel is not to be used as a chat, but can be used to reply to lab escalations.
+The `#technical-coaches` channel is used for doing your shift and all shift-related content. It's also used to greet your peers and a little chat. Please try not to flood technical coaches with chat, particularly during busy periods. If it's an in depth discussion, you can always do a group DM.
 
 ### #tc_updates
 The `#tc-updates` channel is used by the Technical Coach Leads, Faculty Manager, and staff from other departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations.
