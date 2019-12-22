@@ -5,14 +5,14 @@ On a standard shift, one coach acts as dispatcher and fields all incoming questi
 On a standard shift, there are two roles: **dispatch** and **sync**. We'll cover these roles in greater depth in subsequent sections.
 
 ### Dispatch
-The Dispatcher fields all incoming chats from students and gets some preliminary information from them. There is only one Dispatcher per shift.
+The Dispatcher fields all incoming chats from students and gets some preliminary information from them. Generally there is only one Dispatcher per shift, although there may be exceptions during especially busy shifts.
 
 If the issue is a simple question with a discrete answer (e.g. "What's the difference between #find and #detect in ruby?"), you can answer it in the chat and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably.").
 
 If it's clear that the student will need more than a link and a few short answers, set them up to pair program with another TC who's in the Sync role.
 
 ### Sync
-If you're on Sync during a shift, you'll be screensharing with students. Depending on their issue, you may be doing anything from debugging a simple syntax error, to troubleshooting an environment issue, to teaching a concept to a struggling student. We limit our screenshares to 20 minutes - you may not always be able to solve the error within this time limit, but that's okay - do the best you can.
+If you're on Sync during a shift, you'll generally be screensharing with students, although you may also be chatting with a student 1:1 if they are unable to screenshare. Depending on their issue, you may be doing anything from debugging a simple syntax error, to troubleshooting an environment issue, to teaching a concept to a struggling student. We limit our screenshares to 20 minutes - you may not always be able to solve the error within this time limit, but that's okay - do the best you can.
 
 ## Slack Channels - Flatiron Staff
 While working on a shift, you will likely find yourself accessing a number of different Slack channels in the Flatiron Staff team. Below is a brief overview of what some of these channels are. For more in depth information, check out the resources at the end of this lesson.
