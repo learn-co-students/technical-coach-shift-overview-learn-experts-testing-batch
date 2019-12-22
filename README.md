@@ -20,6 +20,9 @@ While working on a shift, you will likely find yourself accessing a number of di
 ### #technical-coaches
 The `#technical-coaches` channel is used for doing your shift and all shift-related content. It's also used to greet your peers and a little chat. Please try not to flood technical coaches with chat, particularly during busy periods. If it's an in depth discussion, you can always do a group DM.
 
+### #daily-dispatch-line
+The `#daily-dispatch-line` is not meant to be used as a chat, but rather is used to link to the dispatch sheet (pinned at the top of the channel). The dispatch sheet is a Google Doc that lists which TCs will be on dispatch, and when, for each day in the current week (Monday - Sunday). You can toggle the tabs at the bottom of the doc to view each day separately. 
+
 ### #tc_updates
 The `#tc-updates` channel is used by the Faculty Manager and staff from other departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations.
 
@@ -30,7 +33,7 @@ The `#tc-support` channel is used for finding already answered questions as well
 The `#virtual-box` channel contains lots of useful information for VirtualBox, software that allows students to run a virtual machine on their computer if they're not using OSX. This channel has links to available resources, videos and the Github docs with fixes to the most common known issues.
 
 ## Qbot
-`Qbot` is the helpful Slack bot that manages who's on shift and the questions queued for screen share. We reference some of these commands in this curriculum track. You'll be using these commands frequently on shift, so please [check out the full documentation for qbot here](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md).
+`Qbot` is the helpful Slack bot that manages who's on shift and the questions queued for screenshare. We reference some of these commands in this curriculum track. You'll be using these commands frequently on shift, so please [check out the full documentation for qbot here](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md).
 
 ## Categories of Questions
 You'll see three categories of questions on AAQ - **Requires Action**, **Active Questions** and **Inactive Questions**:
