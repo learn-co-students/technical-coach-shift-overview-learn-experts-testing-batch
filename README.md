@@ -21,7 +21,7 @@ While working on a shift, you will likely find yourself accessing a number of di
 The `#technical-coaches` channel is used for doing your shift and all shift-related content. It's also used to greet your peers and a little chat. Please try not to flood technical coaches with chat, particularly during busy periods. If it's an in depth discussion, you can always do a group DM.
 
 ### #tc_updates
-The `#tc-updates` channel is used by the Technical Coach Leads, Faculty Manager, and staff from other departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations.
+The `#tc-updates` channel is used by the Faculty Manager and staff from other departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations.
 
 ### #tc_support
 The `#tc-support` channel is used for finding already answered questions as well as asking your own questions. You will want to first do a search for a question you might have. If there are no questions already answered in that topic, open your own thread with the question. Technical Coaches will then reply to any question you may have as threaded replies.
