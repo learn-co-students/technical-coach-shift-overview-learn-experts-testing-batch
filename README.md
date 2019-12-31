@@ -26,11 +26,14 @@ The `#daily-dispatch-line` is not meant to be used as a chat, but rather is used
 ### #tc_support
 The `#tc-support` channel is used for finding already answered questions as well as asking your own questions. You will want to first do a search for a question you might have. If there are no questions already answered in that topic, open your own thread with the question. Technical Coaches will then reply to any question you may have as threaded replies.
 
-## Qbot
+### #qbot
 `Qbot` is the helpful Slack bot that manages who's on shift and the questions queued for screenshare. We reference some of these commands in this curriculum track. You'll be using these commands frequently on shift, so please [check out the full documentation for qbot here](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md).
 
 ### #tc_updates
 The `#tc-updates` channel is used by the Faculty Manager and staff from other departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations.
+
+### #virtual-box
+Students who set up a local environment on a Windows machine will generally use either [Virtual Box](https://help.learn.co/en/articles/1489324-setting-up-linux-virtual-box) or [WSL](https://github.com/micahshute/wsl-setup) to do so. Currently we recommend that students use WSL, but you may still run into students using Virtual Box. The #virtual-box channel contains lots of useful information for VirtualBox, software that allows students to run a virtual machine on their computer if they're not using OSX. This channel has links to available resources, videos and the Github docs with fixes to the most common known issues.
 
 
 
