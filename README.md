@@ -32,6 +32,9 @@ The `#tc-support` channel is used for finding already answered questions as well
 ### #tc_updates
 The `#tc-updates` channel is used by the Faculty Manager and staff from other departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations.
 
+### #product-alerts
+The `#product-alerts` channel is used by the product team to keep Technical Coaches and other staff updated on outages or major issues related to the Learn.co platform or the IDE. You may also ask questions in this channel, if there seems to be a rush of students having a similar platform or IDE-related issue. 
+
 ### #virtual-box
 Students who set up their local environment on a Windows machine will generally use either [Virtual Box](https://help.learn.co/en/articles/1489324-setting-up-linux-virtual-box) or [WSL](https://github.com/micahshute/wsl-setup) to do so. Currently we recommend that students use WSL, but you may still run into students using Virtual Box. The #virtual-box channel contains lots of useful information for VirtualBox, software that allows students to run a virtual machine on their computer if they're not using OSX. This channel has links to available resources, videos and the Github docs with fixes to the most common known issues.
 
