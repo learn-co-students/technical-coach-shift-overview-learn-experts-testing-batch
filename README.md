@@ -1,62 +1,22 @@
-# Shift Overview
-On a standard shift, one coach acts as dispatcher and fields all incoming questions. They chat directly with students who have simple questions and queue up students that need more support for 20 minutes screenshares with the other TCs. The one on one support model is based around giving each student a small bit of your time, but all of your attention.
-
-## Shift Roles
-On a standard shift, there are two roles: **dispatch** and **sync**. We'll cover these roles in greater depth in subsequent sections.
-
-### Dispatch
-The Dispatcher fields all incoming chats from students and gets some preliminary information from them. Generally there is only one Dispatcher per shift, although there may be exceptions during especially busy shifts.
-
-If the issue is a simple question with a discrete answer (e.g. "What's the difference between #find and #detect in ruby?"), you can answer it in the chat and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably.").
-
-If it's clear that the student will need more than a link and a few short answers, set them up to pair program with another TC who's in the Sync role.
-
-### Sync
-If you're on Sync during a shift, you'll generally be screensharing with students, although you may also be chatting with a student 1:1 if they are unable to screenshare. Depending on their issue, you may be doing anything from debugging a simple syntax error, to troubleshooting an environment issue, to teaching a concept to a struggling student. We limit our screenshares to 20 minutes - you may not always be able to solve the error within this time limit, but that's okay - do the best you can.
+### Pairing with Students
+When you are on shift at Pair with a Coach, you'll generally be screensharing with students, although you may also be chatting with a student 1:1 if they are unable to screenshare. Depending on their issue, you may be doing anything from debugging a simple syntax error, to troubleshooting an environment issue, to teaching a concept to a struggling student. We limit our screenshares to 20 minutes - you may not always be able to solve the error within this time limit, but that's okay - do the best you can.
 
 ## Slack Channels - Flatiron Staff
 While working on a shift, you will likely find yourself accessing a number of different Slack channels in the Flatiron Staff workspace. Below is a brief overview of what some of these channels are. For more in depth information, check out the resources at the end of this lesson.
 
-### #technical-coaches
-The `#technical-coaches` channel is used for doing your shift and all shift-related content. It's also used to greet your peers and a little chat. Please try not to flood technical coaches with chat, particularly during busy periods. If it's an in depth discussion, you can always do a group DM.
-
-### #daily-dispatch-line
-The `#daily-dispatch-line` is not meant to be used as a chat, but rather is used to link to the dispatch sheet (pinned at the top of the channel). The dispatch sheet is a Google Doc that lists which TCs will be on dispatch, and when, for each day in the current week (Monday - Sunday). You can toggle the tabs at the bottom of the doc to view each day separately.
+### #technical-coaches-se
+The `#technical-coaches-se` channel is used for doing your shift and all shift-related content. It's also used to greet your peers and a little chat. Please try not to flood technical coaches with chat, particularly during busy periods. If it's an in depth discussion, you can always do a group DM.
 
 ### #tc_support
 The `#tc-support` channel is used for finding already answered questions as well as asking your own questions. You will want to first do a search for a question you might have. If there are no questions already answered in that topic, open your own thread with the question. Technical Coaches will then reply to any question you may have as threaded replies.
 
-### #qbot
-`Qbot` is the helpful Slack bot that manages who's on shift and the questions queued for screenshare. We reference some of these commands in this curriculum track. You'll be using these commands frequently on shift, so please [check out the full documentation for qbot here](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md).
-
-### #tc_updates
-The `#tc-updates` channel is used by the Faculty Manager and staff from other departments to keep Technical Coaches updated on various issues. Other departments such as engineering may use this channel if learn.co or Github is down. This channel is not to be used as a chat or to post escalations.
-
-### #product-alerts
-The `#product-alerts` channel is used by the product team to keep Technical Coaches and other staff updated on outages or major issues related to the Learn.co platform or the IDE. You may also ask questions in this channel, if there seems to be a rush of students having a similar platform or IDE-related issue. 
-
-### #virtual-box
-Students who set up their local environment on a Windows machine will generally use either [Virtual Box](https://help.learn.co/en/articles/1489324-setting-up-linux-virtual-box) or [WSL](https://github.com/micahshute/wsl-setup) to do so. Currently we recommend that students use WSL, but you may still run into students using Virtual Box. The #virtual-box channel contains lots of useful information for VirtualBox, software that allows students to run a virtual machine on their computer if they're not using OSX. This channel has links to available resources, videos and the Github docs with fixes to the most common known issues.
-
-
-
-## Categories of Questions
-You'll see three categories of questions on AAQ - **Requires Action**, **Active Questions** and **Inactive Questions**:
-
-- **Requires Action** is any new question or any question where the student has responded and has been waiting > 15 mins for a TC response. These are top priority and we should keep it empty. If we see something in requires action, we want to move it out of there as fast as we can.
-- **Active Questions** contains questions where a coach and a student are actively chatting.
-- **Inactive Questions** are questions where a student hasn't responded to a coach for at least 15 minutes, so you can ignore them until the student replies. When they reply, the question will be moved back into the Active Questions category.
 
 ## Breaks
-While on a shift, you are permitted one 10 minute break. You can take this break in the middle of your shift **as long as no other TC is already on break and there is no queue of students waiting for screenshares**. You cannot take your break in the first 30 minutes of your shift or in the last 30 minutes of your shift, and you cannot break if only two TCs (including yourself) are on shift. Best practice is to clear it with the dispatcher before you take your break. If dispatch has confirmed that it's a good time for you to break, you can `qbot out` so no questions are assigned to you while you are out. When your break is done, message `qbot in <role>` in Slack.
+While on a shift, you are permitted one 10 minute break. You can take this break in the middle of your shift **as long as no other TC is already on break and there is no queue of students waiting for screenshares**. You cannot take your break in the first 30 minutes of your shift or in the last 30 minutes of your shift. Best practice is to clear it with the other coaches on shift before you take your break. If dispatch has confirmed that it's a good time for you to break, you can mark yourself as "Away" so no questions are assigned to you while you are out. When your break is done, change your status back on "Online".
 
 If you're working a double shift, you are permitted one 30 minute break and one 10 minute break. You can't take these breaks back to back (so no 40 minutes breaks). Same rules as regular breaks apply: Take them in the middle of your shift and if no other TCs are already on break. If you're breaking for 30 minutes, try to wait until the chat is quiet and not extra busy, if possible - the other TCs on shift will thank you for it!
 
 
 ## Resources
-* [Qbot Commands](https://github.com/flatiron-labs/technical-coach-resources/blob/master/qbot.md)
-* [AAQ](https://learn.co/expert-chat)
-* [Chrome Extension for tracking questions](https://chrome.google.com/webstore/detail/le3/hjjhpafjpkkjbdchnaeikofponobhngc)
-* [#technical-coaches channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_coaches_channel.md)
-* [#tc_updates channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/tc_updates_channel.md)
+* [#technical-coaches-se channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/technical_coaches_channel.md)
 * [#tc_support channel information](https://github.com/flatiron-labs/technical-coach-resources/blob/master/tc_channels/tc_support_channel.md)
